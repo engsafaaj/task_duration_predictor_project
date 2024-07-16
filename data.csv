@@ -1,0 +1,1001 @@
+project_type,project_size,project_duration,task_name,task_description,task_duration
+Commercial,2500,365,Excavation,Preparing the site by removing earth for foundation,7
+Commercial,2500,365,Foundation,Laying concrete foundation for the building,4
+Commercial,2500,365,Structural Framing,Erecting the main structure of the building,5
+Commercial,2500,365,Roofing,Installing and sealing the roof,5
+Commercial,2500,365,Exterior Cladding,Applying exterior finishes to the building,5
+Residential,180,120,Site Preparation,Clearing and leveling the construction site,2
+Residential,180,120,Foundation,Pouring concrete for the house foundation,3
+Residential,180,120,Framing,Building the wooden frame of the house,2
+Residential,180,120,Roofing,Installing shingles and waterproofing,3
+Residential,180,120,Plumbing,Installing water and waste pipes,2
+Infrastructure,10000,730,Land Surveying,Mapping out the project area,7
+Infrastructure,10000,730,Earthwork,Moving and grading soil for road construction,11
+Infrastructure,10000,730,Paving,Laying asphalt for road surface,13
+Infrastructure,10000,730,Bridge Construction,Building a concrete bridge,11
+Infrastructure,10000,730,Signage Installation,Putting up traffic signs and road markings,16
+Industrial,5000,540,Site Clearing,Preparing industrial site for construction,9
+Industrial,5000,540,Foundation,Laying heavy-duty foundation for industrial equipment,12
+Industrial,5000,540,Steel Erection,Assembling steel framework for the facility,8
+Industrial,5000,540,Equipment Installation,Setting up industrial machinery,6
+Industrial,5000,540,Electrical Systems,Installing power distribution systems,11
+Commercial,3000,400,HVAC Installation,Setting up heating and cooling systems,6
+Commercial,3000,400,Electrical Wiring,Installing electrical circuits and outlets,4
+Commercial,3000,400,Plumbing,Fitting water supply and drainage systems,7
+Commercial,3000,400,Elevator Installation,Setting up elevators in the building,5
+Residential,220,150,Electrical Work,Wiring the house for electricity,1
+Residential,220,150,Insulation,Installing thermal insulation in walls and attic,4
+Residential,220,150,Drywall,Hanging and finishing drywall,1
+Residential,220,150,Painting,Painting interior and exterior surfaces,2
+Residential,220,150,Flooring,Installing hardwood and tile flooring,1
+Infrastructure,8000,600,Tunnel Excavation,Digging underground passage for transportation,20
+Infrastructure,8000,600,Concrete Lining,Reinforcing tunnel walls with concrete,17
+Infrastructure,8000,600,Ventilation System,Installing air circulation system in tunnel,11
+Infrastructure,8000,600,Electrical Systems,Setting up lighting and power in tunnel,10
+Infrastructure,8000,600,Safety Equipment,Installing emergency systems and signage,12
+Industrial,4500,480,Concrete Flooring,Pouring and finishing industrial-grade concrete floors,10
+Industrial,4500,480,Overhead Crane Installation,Setting up heavy-lifting equipment,5
+Industrial,4500,480,Fire Protection Systems,Installing sprinklers and alarms,6
+Industrial,4500,480,Waste Management System,Setting up industrial waste processing equipment,9
+Industrial,4500,480,Quality Control Room,Building and equipping QC facilities,7
+Commercial,3500,420,Facade Installation,Mounting glass and metal facade elements,4
+Commercial,3500,420,Landscaping,Planting trees and designing outdoor spaces,7
+Commercial,3500,420,Parking Lot Construction,Paving and marking parking areas,3
+Commercial,3500,420,Security Systems,Installing cameras and access control,6
+Commercial,3500,420,Network Infrastructure,Setting up IT and communication systems,5
+Residential,250,180,Kitchen Installation,Fitting cabinets and appliances,2
+Residential,250,180,Bathroom Tiling,Laying tiles in bathrooms,2
+Residential,250,180,Window Installation,Fitting energy-efficient windows,2
+Residential,250,180,Garage Construction,Building attached garage structure,2
+Residential,250,180,Deck Building,Constructing outdoor wooden deck,2
+Infrastructure,12000,800,Water Main Installation,Laying underground water supply pipes,8
+Infrastructure,12000,800,Sewage System,Installing sewage collection and treatment system,18
+Infrastructure,12000,800,Street Lighting,Setting up street lamps and electrical connections,13
+Infrastructure,12000,800,Fiber Optic Network,Installing high-speed internet infrastructure,12
+Infrastructure,12000,800,Public Transportation Stops,Building bus stops and information systems,15
+Industrial,5500,600,Clean Room Construction,Building contamination-free manufacturing area,9
+Industrial,5500,600,Chemical Storage Facility,Constructing secure chemical storage units,8
+Industrial,5500,600,Loading Dock,Building shipping and receiving area,10
+Industrial,5500,600,Office Space Fit-Out,Finishing office areas within industrial facility,13
+Industrial,5500,600,Solar Panel Installation,Mounting solar panels for energy efficiency,13
+Commercial,4000,450,Curtain Wall Installation,Fitting exterior glass walls,2
+Commercial,4000,450,Acoustic Treatment,Installing sound-absorbing materials,5
+Commercial,4000,450,Fire Escape Construction,Building emergency exit staircases,5
+Commercial,4000,450,Lobby Design,Creating and finishing entrance lobby,6
+Commercial,4000,450,Restroom Fit-Out,Installing commercial restroom facilities,4
+Residential,300,200,Home Automation,Installing smart home systems,2
+Residential,300,200,Fireplace Installation,Building and finishing decorative fireplace,3
+Residential,300,200,Custom Cabinetry,Crafting and installing built-in cabinets,2
+Residential,300,200,Hardscaping,Creating paved outdoor living areas,2
+Residential,300,200,Pool Construction,Building in-ground swimming pool,2
+Infrastructure,15000,900,Bridge Painting,Applying protective coatings to bridge structure,18
+Infrastructure,15000,900,Traffic Signal Installation,Setting up traffic lights and control systems,15
+Infrastructure,15000,900,Noise Barrier Construction,Erecting sound-reducing walls along highway,15
+Infrastructure,15000,900,Stormwater Management,Installing drainage systems and retention ponds,14
+Infrastructure,15000,900,Bike Lane Creation,Painting and separating bicycle lanes,14
+Industrial,6000,660,Conveyor System Installation,Setting up material handling conveyors,11
+Industrial,6000,660,Compressed Air System,Installing air compressors and distribution lines,9
+Industrial,6000,660,Robotic Assembly Line,Setting up automated manufacturing equipment,8
+Industrial,6000,660,Warehouse Racking,Assembling high-bay storage systems,9
+Industrial,6000,660,Industrial Ventilation,Installing large-scale air extraction systems,10
+Commercial,4500,480,Green Roof Installation,Creating rooftop garden and vegetation,4
+Commercial,4500,480,Gym Fit-Out,Equipping fitness center with specialized flooring,6
+Commercial,4500,480,Conference Room Setup,Installing AV equipment and furnishing meeting spaces,7
+Commercial,4500,480,Rainwater Harvesting System,Setting up water collection and filtration system,5
+Commercial,4500,480,Art Installation,Mounting decorative artwork in public areas,4
+Residential,280,190,Home Theater Setup,Building and equipping dedicated media room,3
+Residential,280,190,Wine Cellar Construction,Creating temperature-controlled wine storage,3
+Residential,280,190,Sauna Installation,Building and equipping indoor sauna,2
+Residential,280,190,Skylights Fitting,Installing roof windows for natural lighting,2
+Residential,280,190,Smart Irrigation System,Setting up automated lawn watering system,3
+Residential,350,210,Site Preparation,Clearing land and initial grading,2
+Residential,350,210,Foundation Work,Pouring concrete foundation and footings,2
+Residential,350,210,Framing,Erecting the house's wooden structure,2
+Residential,350,210,Roofing,Installing shingles and waterproofing,2
+Residential,350,210,Electrical Wiring,Setting up home electrical systems,2
+Commercial,5000,450,Excavation,Digging and preparing the construction site,7
+Commercial,5000,450,Steel Framing,Erecting the building's steel skeleton,4
+Commercial,5000,450,Concrete Pouring,Laying floors and structural elements,3
+Commercial,5000,450,HVAC Installation,Setting up heating and cooling systems,5
+Commercial,5000,450,Elevator Installation,Installing elevator systems,4
+Industrial,8000,600,Site Clearing,Preparing industrial site for construction,6
+Industrial,8000,600,Foundation,Laying reinforced concrete foundation,10
+Industrial,8000,600,Steel Structure,Assembling the main steel framework,8
+Industrial,8000,600,Roofing,Installing industrial-grade roofing,10
+Industrial,8000,600,Machinery Setup,Installing and calibrating industrial equipment,11
+Infrastructure,20000,800,Land Surveying,Detailed mapping of the project area,14
+Infrastructure,20000,800,Earthmoving,Large-scale earth relocation and grading,9
+Infrastructure,20000,800,Bridge Construction,Building a major bridge structure,12
+Infrastructure,20000,800,Road Paving,Laying asphalt for new roadways,10
+Infrastructure,20000,800,Traffic System Installation,Setting up traffic lights and signs,11
+Residential,280,180,Plumbing,Installing water supply and drainage systems,2
+Residential,280,180,Insulation,Applying thermal insulation in walls and attic,3
+Residential,280,180,Drywall Installation,Hanging and finishing interior walls,1
+Residential,280,180,Painting,Interior and exterior painting,1
+Residential,280,180,Flooring,Installing various types of flooring,3
+Commercial,4000,420,Curtain Wall Installation,Fitting exterior glass facade,5
+Commercial,4000,420,Interior Partitioning,Creating office spaces and rooms,3
+Commercial,4000,420,Electrical Systems,Setting up power distribution and lighting,4
+Commercial,4000,420,Plumbing,Installing commercial-grade plumbing systems,4
+Commercial,4000,420,Fire Safety Systems,Installing sprinklers and alarms,5
+Industrial,10000,720,Heavy Machinery Foundation,Preparing specialized foundations for equipment,9
+Industrial,10000,720,Clean Room Construction,Building sterile manufacturing areas,10
+Industrial,10000,720,Chemical Storage Facilities,Constructing safe chemical storage units,10
+Industrial,10000,720,Waste Treatment Plant,Setting up industrial waste processing,9
+Industrial,10000,720,Quality Control Lab,Building and equipping testing facilities,12
+Infrastructure,15000,750,Tunnel Excavation,Digging underground passage for transportation,20
+Infrastructure,15000,750,Tunnel Lining,Reinforcing tunnel structure,12
+Infrastructure,15000,750,Ventilation Systems,Installing air circulation in tunnel,14
+Infrastructure,15000,750,Railway Track Laying,Installing rail lines and signaling,14
+Infrastructure,15000,750,Station Construction,Building transport hub and platforms,15
+Residential,400,240,Kitchen Installation,Fitting cabinets and appliances,1
+Residential,400,240,Bathroom Tiling,Laying tiles in bathrooms,2
+Residential,400,240,Landscaping,Designing and planting outdoor areas,2
+Residential,400,240,Driveway Paving,Creating paved driveway and walkways,2
+Commercial,6000,540,Facade Work,Installing decorative exterior elements,4
+Commercial,6000,540,Acoustic Treatment,Soundproofing key areas,3
+Commercial,6000,540,Network Infrastructure,Setting up IT and communication systems,6
+Commercial,6000,540,Security Systems,Installing surveillance and access control,4
+Commercial,6000,540,Signage Installation,Mounting interior and exterior signs,6
+Industrial,12000,780,Assembly Line Setup,Installing automated production lines,6
+Industrial,12000,780,Overhead Crane Installation,Setting up heavy-lifting equipment,6
+Industrial,12000,780,Electrical Substation,Building power distribution center,7
+Industrial,12000,780,Loading Dock Construction,Creating shipping and receiving areas,11
+Industrial,12000,780,Office Space Fit-Out,Finishing administrative areas,5
+Infrastructure,25000,900,Highway Expansion,Widening existing roadways,7
+Infrastructure,25000,900,Overpass Construction,Building elevated road sections,10
+Infrastructure,25000,900,Drainage Systems,Installing stormwater management,11
+Infrastructure,25000,900,Noise Barriers,Erecting sound-reducing walls,13
+Infrastructure,25000,900,Landscaping,Planting trees and designing green spaces,18
+Residential,320,200,Solar Panel Installation,Mounting rooftop solar energy system,2
+Residential,320,200,Smart Home Systems,Installing home automation technology,2
+Residential,320,200,Window Fitting,Installing energy-efficient windows,2
+Residential,320,200,Garage Construction,Building attached garage structure,2
+Residential,320,200,Fence Installation,Erecting property boundary fence,2
+Commercial,5500,480,Lobby Design,Creating impressive entrance area,4
+Commercial,5500,480,Restroom Fit-Out,Installing commercial bathroom facilities,5
+Commercial,5500,480,Parking Lot Construction,Paving and marking parking areas,4
+Commercial,5500,480,Green Roof Installation,Creating rooftop garden,2
+Commercial,5500,480,Art Installation,Mounting decorative artwork,4
+Industrial,9000,660,Robotic System Integration,Setting up automated manufacturing robots,12
+Industrial,9000,660,HVAC for Industrial Use,Installing specialized climate control,8
+Industrial,9000,660,Fire Suppression Systems,Fitting advanced fire protection,8
+Industrial,9000,660,Industrial Flooring,Laying chemical-resistant flooring,7
+Industrial,9000,660,Safety System Implementation,Installing emergency protocols and equipment,7
+Infrastructure,18000,840,Light Rail Construction,Building urban train system,11
+Infrastructure,18000,840,Station Renovations,Upgrading existing transport hubs,11
+Infrastructure,18000,840,Bike Lane Network,Creating dedicated cycling infrastructure,12
+Infrastructure,18000,840,Smart Traffic Systems,Implementing AI-driven traffic management,14
+Infrastructure,18000,840,Public Wi-Fi Network,Setting up citywide internet access,14
+Residential,450,270,Home Theater Setup,Building and equipping media room,2
+Residential,450,270,Wine Cellar Construction,Creating temperature-controlled storage,2
+Residential,450,270,Pool Installation,Building in-ground swimming pool,2
+Residential,450,270,Outdoor Kitchen,Constructing fully-equipped outdoor cooking area,3
+Residential,450,270,Home Gym Fit-Out,Setting up exercise room with specialized flooring,2
+Commercial,7000,600,Conference Center,Building large meeting facilities,4
+Commercial,7000,600,Cafeteria Construction,Creating commercial kitchen and dining area,7
+Commercial,7000,600,Fitness Center,Equipping employee gym,3
+Commercial,7000,600,Data Center Setup,Installing server rooms and cooling systems,6
+Commercial,7000,600,Outdoor Seating Area,Designing recreational spaces for employees,5
+Residential,380,230,Foundation Waterproofing,Applying waterproof sealant to foundation,2
+Residential,380,230,Chimney Construction,Building and lining fireplace chimney,3
+Residential,380,230,Staircase Installation,Constructing and fitting interior staircase,3
+Residential,380,230,Exterior Painting,Painting house exterior and trim,2
+Residential,380,230,Gutter Installation,Fitting rain gutters and downspouts,2
+Commercial,8000,550,Lobby Water Feature,Installing decorative water fountain,5
+Commercial,8000,550,Raised Floor System,Installing raised floors for cable management,7
+Commercial,8000,550,Soundproof Rooms,Constructing soundproof meeting spaces,4
+Commercial,8000,550,Solar Window Film,Applying energy-efficient window film,3
+Commercial,8000,550,Terrace Construction,Building rooftop terrace for employees,4
+Industrial,13000,780,Blast-Resistant Construction,Reinforcing structures for safety,7
+Industrial,13000,780,Pneumatic Tube System,Installing internal transport system,7
+Industrial,13000,780,Coolroom Installation,Building temperature-controlled storage,6
+Industrial,13000,780,Dust Collection System,Setting up industrial air filtration,6
+Industrial,13000,780,Pressure Vessel Installation,Installing high-pressure containers,8
+Infrastructure,22000,900,Geotechnical Survey,Analyzing soil and rock conditions,9
+Infrastructure,22000,900,Pile Driving,Installing deep foundation supports,13
+Infrastructure,22000,900,Culvert Construction,Building underground water passages,15
+Infrastructure,22000,900,Retaining Wall Erection,Constructing earth-retaining structures,12
+Infrastructure,22000,900,Traffic Monitoring System,Installing traffic flow sensors,9
+Residential,420,250,Skylight Installation,Fitting roof windows for natural light,2
+Residential,420,250,Underfloor Heating,Installing radiant floor heating system,2
+Residential,420,250,Walk-in Closet Construction,Building custom storage space,1
+Residential,420,250,Home Elevator Installation,Fitting residential elevator system,2
+Residential,420,250,Basement Waterproofing,Sealing basement against moisture,2
+Commercial,6500,500,Atrium Construction,Building central open-air courtyard,5
+Commercial,6500,500,Revolving Door Installation,Fitting energy-efficient entrance doors,6
+Commercial,6500,500,Indoor Living Wall,Creating vertical garden installation,6
+Commercial,6500,500,Noise Cancellation System,Installing sound management technology,6
+Commercial,6500,500,Smart Glass Installation,Fitting electronically tintable windows,7
+Industrial,11000,720,Crane Rail Installation,Setting up overhead crane system,7
+Industrial,11000,720,Effluent Treatment Plant,Constructing wastewater treatment facility,13
+Industrial,11000,720,Blast Furnace Construction,Building high-temperature metal processing unit,12
+Industrial,11000,720,Automated Warehouse System,Installing robotic storage and retrieval,12
+Industrial,11000,720,Industrial Kiln Setup,Constructing large-scale heating chamber,7
+Infrastructure,28000,950,Cable-Stayed Bridge,Constructing advanced bridge design,12
+Infrastructure,28000,950,Underground Parking Facility,Building subterranean parking structure,14
+Infrastructure,28000,950,Desalination Plant,Constructing seawater processing facility,12
+Infrastructure,28000,950,Smart City Control Center,Building centralized urban management hub,15
+Infrastructure,28000,950,Flood Barrier System,Installing urban flood protection,10
+Residential,290,200,Radiant Barrier Installation,Adding reflective insulation in attic,3
+Residential,290,200,Central Vacuum System,Installing built-in vacuum cleaning system,2
+Residential,290,200,Home Bowling Alley,Constructing private bowling lane,1
+Residential,290,200,Safe Room Construction,Building secure panic room,1
+Residential,290,200,Indoor Rock Climbing Wall,Installing custom climbing structure,2
+Commercial,9000,600,Helical Staircase,Constructing spiral staircase feature,4
+Commercial,9000,600,Pneumatic Waste System,Installing automated waste collection,5
+Commercial,9000,600,Hydroponic Green Wall,Setting up vertical farming installation,4
+Commercial,9000,600,3D Projection Mapping Setup,Installing advanced visual display system,4
+Commercial,9000,600,Biometric Access Control,Implementing advanced security measures,7
+Industrial,14000,800,Cryogenic Plant Construction,Building low-temperature gas processing facility,11
+Industrial,14000,800,Foundry Setup,Constructing metal casting facility,6
+Industrial,14000,800,Anechoic Chamber,Building sound-absorbing test room,8
+Industrial,14000,800,Rotomolding Facility,Setting up plastic forming equipment,11
+Industrial,14000,800,Electroplating Line Installation,Constructing metal coating facility,7
+Infrastructure,30000,1000,Tidal Power Station,Building sea-based power generation facility,17
+Infrastructure,30000,1000,Mag-Lev Train Track,Constructing magnetic levitation railway,9
+Infrastructure,30000,1000,Waste-to-Energy Plant,Building garbage incineration power plant,13
+Infrastructure,30000,1000,Smart Grid Implementation,Upgrading city-wide power distribution,9
+Infrastructure,30000,1000,Vertical Farm Construction,Building multi-story urban agriculture facility,18
+Residential,480,270,Indoor Basketball Court,Constructing private sports facility,2
+Residential,480,270,Smart Mirror Installation,Fitting interactive bathroom mirrors,2
+Residential,480,270,Home Brewery Setup,Building small-scale brewing facility,2
+Residential,480,270,Meditation Garden,Creating zen outdoor space,1
+Residential,480,270,Pet Washing Station,Installing dedicated pet grooming area,3
+Commercial,7500,520,Holographic Display Room,Setting up 3D projection facility,4
+Commercial,7500,520,Vertical Wind Turbine,Installing building-integrated wind power,6
+Commercial,7500,520,Aquarium Wall,Constructing large-scale fish tank feature,4
+Commercial,7500,520,Retractable Roof,Installing openable stadium-style roof,6
+Commercial,7500,520,Virtual Reality Center,Building immersive VR experience room,6
+Industrial,16000,850,Semiconductor Clean Room,Constructing ultra-clean manufacturing space,9
+Industrial,16000,850,Robotic Painting Facility,Setting up automated paint application system,12
+Industrial,16000,850,Particle Accelerator,Building scientific research facility,10
+Industrial,16000,850,Automated Cold Storage,Constructing robotic freezer warehouse,10
+Industrial,16000,850,Biomass Power Plant,Building organic matter energy facility,8
+Infrastructure,35000,1100,Hyperloop Test Track,Constructing high-speed transport prototype,18
+Infrastructure,35000,1100,Floating Solar Farm,Building water-based solar panel array,12
+Infrastructure,35000,1100,Carbon Capture Facility,Constructing CO2 extraction plant,11
+Infrastructure,35000,1100,Vertical Seaport,Building multi-level shipping container port,15
+Infrastructure,35000,1100,Urban Air Mobility Hub,Constructing flying taxi port,9
+Residential,550,300,Home Planetarium,Installing dome projection system,2
+Residential,550,300,Underground Wine Cellar,Excavating and building subterranean storage,2
+Residential,550,300,Glass-Bottom Pool,Constructing suspended transparent pool,2
+Residential,550,300,Smart Home Hub,Centralizing home automation controls,2
+Residential,550,300,Rooftop Helipad,Building personal helicopter landing pad,2
+Commercial,10000,650,Indoor Ski Slope,Constructing artificial skiing facility,5
+Commercial,10000,650,Augmented Reality Showroom,Setting up high-tech product display,4
+Commercial,10000,650,Elevated Park,Creating rooftop public green space,6
+Commercial,10000,650,Drone Delivery Center,Building automated package handling facility,8
+Commercial,10000,650,Digital Art Gallery,Installing interactive art display systems,4
+Industrial,18000,900,Micro-Robotics Lab,Constructing small-scale robot research facility,12
+Industrial,18000,900,Acoustic Engine Test Cell,Building sound-isolated engine testing room,10
+Industrial,18000,900,Pharmaceutical Cleanroom,Constructing sterile drug manufacturing space,11
+Industrial,18000,900,Automated Vertical Farm,Setting up AI-controlled indoor farming,8
+Industrial,18000,900,Nanotech Fabrication Facility,Building molecular-scale manufacturing plant,9
+Infrastructure,40000,1200,Space Launch Facility,Constructing commercial rocket launch site,10
+Infrastructure,40000,1200,Fusion Reactor Prototype,Building experimental power generation plant,10
+Infrastructure,40000,1200,Undersea Data Center,Constructing submerged server facility,16
+Infrastructure,40000,1200,Atmospheric Water Harvesting Plant,Building air-to-water generation facility,12
+Infrastructure,40000,1200,Autonomous Vehicle Test City,Constructing self-driving car research environment,18
+Residential,320,180,Solar Roof Installation,Fitting integrated solar panel roofing,1
+Residential,320,180,Rainwater Harvesting System,Installing water collection and filtration,3
+Residential,320,180,Smart Thermostat Setup,Installing AI-driven climate control,2
+Residential,320,180,EV Charging Station,Installing electric vehicle charging point,3
+Residential,320,180,Home Battery System,Setting up energy storage solution,2
+Commercial,5500,420,Green Wall Installation,Creating vertical garden on exterior wall,5
+Commercial,5500,420,Daylight Harvesting System,Installing light-responsive lighting controls,7
+Commercial,5500,420,Raised Access Flooring,Installing elevated flooring for cable management,8
+Commercial,5500,420,Electrochromic Glazing,Fitting smart-tinting window system,5
+Commercial,5500,420,Biometric Access Control,Implementing fingerprint and facial recognition entry,5
+Industrial,12000,720,Automated Guided Vehicle System,Setting up self-driving factory vehicles,11
+Industrial,12000,720,3D Printing Facility,Constructing additive manufacturing center,8
+Industrial,12000,720,IoT Sensor Network,Implementing factory-wide data collection system,13
+Industrial,12000,720,Robotic Assembly Line,Installing AI-driven production line,6
+Industrial,12000,720,AR Maintenance System,Setting up augmented reality repair assistance,11
+Infrastructure,25000,900,Smart Traffic Management,Implementing AI-driven traffic control system,13
+Infrastructure,25000,900,Micro Nuclear Reactor,Constructing small-scale nuclear power plant,16
+Infrastructure,25000,900,Urban Air Mobility Vertiport,Building flying taxi landing facility,11
+Infrastructure,25000,900,Hyperloop Station,Constructing vacuum-tube transport terminal,10
+Infrastructure,25000,900,Quantum Network Node,Installing quantum internet connection point,14
+Residential,400,210,Home Cinema Installation,Building dedicated movie viewing room,1
+Residential,400,210,Indoor Vertical Garden,Installing hydroponic wall garden,1
+Residential,400,210,Smart Glass Installation,Fitting electronically tinting windows,3
+Residential,400,210,Geothermal Heat Pump,Installing ground-source heating system,3
+Residential,400,210,Home Elevator,Fitting residential lift system,2
+Commercial,7000,480,AR Navigation System,Implementing indoor augmented reality wayfinding,8
+Commercial,7000,480,Pneumatic Waste Collection,Installing automated trash removal system,4
+Commercial,7000,480,Kinetic Energy Floor,Fitting foot traffic power generation system,8
+Commercial,7000,480,AI Security System,Setting up machine learning-based surveillance,8
+Commercial,7000,480,Drone Delivery Hub,Constructing aerial package reception center,4
+Industrial,15000,800,Plasma Waste Processing,Building high-temperature waste treatment facility,13
+Industrial,15000,800,Carbon Capture System,Installing industrial CO2 extraction unit,8
+Industrial,15000,800,Exoskeleton Testing Facility,Constructing powered suit development center,12
+Industrial,15000,800,Microgravity Simulation Chamber,Building weightlessness research facility,7
+Industrial,15000,800,Biomimetic Manufacturing Lab,Setting up nature-inspired production facility,12
+Infrastructure,30000,1000,Algae Biofuel Plant,Constructing algae-based fuel production facility,20
+Infrastructure,30000,1000,Maglev Train Track,Building magnetic levitation railway system,12
+Infrastructure,30000,1000,Space Elevator Ground Station,Constructing terrestrial base for space tether,14
+Infrastructure,30000,1000,Fusion Power Plant,Building nuclear fusion energy facility,11
+Infrastructure,30000,1000,Atmospheric Water Harvesting Array,Constructing air-to-water generation farm,10
+Residential,280,150,Smart Mirror Installation,Fitting AI-enhanced bathroom mirror,1
+Residential,280,150,Home Hydroponics System,Setting up automated indoor garden,1
+Residential,280,150,Voice-Activated Home Control,Implementing whole-house voice command system,3
+Residential,280,150,Radiant Floor Heating,Installing under-floor heating system,2
+Residential,280,150,Home Wellness Room,Constructing dedicated health and fitness space,2
+Commercial,6000,450,Holographic Conference System,Setting up 3D telepresence facility,6
+Commercial,6000,450,Sensory Marketing Installation,Implementing multi-sensory brand experience,5
+Commercial,6000,450,Smart Parking System,Installing AI-driven parking management,5
+Commercial,6000,450,Indoor Positioning System,Implementing precise location tracking,5
+Commercial,6000,450,Collaborative Robot Workspace,Setting up human-robot interaction area,6
+Industrial,18000,850,Nanotech Fabrication Facility,Constructing molecular manufacturing plant,12
+Industrial,18000,850,Cryogenic Processing Plant,Building ultra-low temperature treatment facility,8
+Industrial,18000,850,Magnetic Levitation Assembly,Setting up non-contact production line,7
+Industrial,18000,850,Photonic Computing Lab,Constructing light-based computer research center,9
+Industrial,18000,850,Metamaterials Production Facility,Building exotic materials manufacturing plant,13
+Infrastructure,35000,1100,Satellite Launch Complex,Constructing commercial space launch facility,14
+Infrastructure,35000,1100,Offshore Wind Farm,Building sea-based wind turbine array,16
+Infrastructure,35000,1100,Underground Data Center,Constructing subterranean server facility,16
+Infrastructure,35000,1100,Autonomous Vehicle Test City,Building self-driving car research environment,18
+Infrastructure,35000,1100,Urban Farming Skyscraper,Constructing vertical agriculture tower,18
+Residential,350,200,Home Climbing Wall,Installing indoor rock climbing facility,3
+Residential,350,200,Home Recording Studio,Constructing soundproof music production room,3
+Residential,350,200,Automated Pet Care System,Installing smart feeding and monitoring setup,3
+Residential,350,200,Home Recycling Center,Setting up waste sorting and processing station,2
+Commercial,8000,550,Virtual Reality Showroom,Building immersive product display environment,7
+Commercial,8000,550,Biophilic Design Implementation,Incorporating nature-inspired architectural elements,5
+Commercial,8000,550,Contactless Retail System,Setting up touch-free shopping technology,7
+Commercial,8000,550,Digital Twin Integration,Implementing real-time building simulation system,6
+Commercial,8000,550,Photovoltaic Glass Facade,Installing power-generating window system,7
+Industrial,20000,900,Bioprinting Facility,Constructing 3D tissue and organ printing center,11
+Industrial,20000,900,Quantum Computing Lab,Building advanced quantum processor research facility,8
+Industrial,20000,900,Hypersonic Wind Tunnel,Constructing high-speed aerodynamics test facility,10
+Industrial,20000,900,Robotic Exoplanet Lab,Setting up automated alien world simulation,12
+Industrial,20000,900,Antimatter Production Plant,Building particle physics research facility,8
+Infrastructure,40000,1200,Hyperloop Network Hub,Constructing central station for vacuum tube transport,18
+Infrastructure,40000,1200,Seabed Mining Facility,Building deep-sea mineral extraction plant,15
+Infrastructure,40000,1200,Stratospheric Internet Platform,Constructing high-altitude connectivity base,14
+Infrastructure,40000,1200,Intermodal Transport Center,Building multi-mode transportation hub,11
+Infrastructure,40000,1200,Space Debris Removal Base,Constructing orbital cleanup mission control,20
+Residential,420,240,Home Aquaponics System,Installing fish and plant symbiotic ecosystem,2
+Residential,420,240,Electromagnetic Shielding,Fitting EMF-blocking materials in walls,3
+Residential,420,240,Smart Home Security Drone,Setting up automated aerial surveillance,2
+Residential,420,240,Home Holography Room,Constructing 3D projection entertainment space,2
+Residential,420,240,Automated Closet System,Installing AI-driven wardrobe management,2
+Commercial,9000,600,Artificial Skylight System,Fitting simulated natural light technology,4
+Commercial,9000,600,Robotic Inventory Management,Implementing automated stock control system,6
+Commercial,9000,600,Haptic Feedback Displays,Installing touch-sensitive product showcases,4
+Commercial,9000,600,Fog Screen Projections,Setting up walk-through display technology,4
+Commercial,9000,600,Algae Facade Bioreactor,Constructing bio-adaptive building skin,7
+Industrial,22000,950,Precision Fermentation Facility,Building lab-grown food production plant,11
+Industrial,22000,950,Neuromorphic Computing Center,Constructing brain-inspired AI chip facility,9
+Industrial,22000,950,Plasma Propulsion Test Site,Building advanced spacecraft engine facility,10
+Industrial,22000,950,Gravitational Wave Detector,Constructing space-time ripple sensing facility,12
+Industrial,22000,950,Synthetic Biology Foundry,Setting up engineered organism creation lab,8
+Infrastructure,45000,1300,Space Elevator,Constructing orbital tether and climb system,13
+Infrastructure,45000,1300,Intercontinental Vacuum Train,Building subsurface ultra-fast rail system,18
+Infrastructure,45000,1300,Artificial Gravity Research Station,Constructing rotating space habitat prototype,14
+Infrastructure,45000,1300,Global Weather Control Center,Building climate modification command facility,20
+Infrastructure,45000,1300,Asteroid Mining Support Base,Constructing space resource extraction hub,10
+Residential,300,170,Piezoelectric Floor Tiles,Installing kinetic energy harvesting flooring,3
+Residential,300,170,Air-Purifying Paint Application,Applying photocatalytic coating to walls,2
+Residential,300,170,Home DNA Lab,Setting up personal genetics testing facility,2
+Residential,300,170,Intelligent Wardrobe System,Installing AI-driven clothing management,2
+Residential,300,170,Modular Room System,Fitting movable wall and furniture components,2
+Commercial,6500,470,Adaptive Lighting System,Implementing circadian rhythm-based illumination,6
+Commercial,6500,470,Gesture Control Interface,Installing motion-based building control system,4
+Commercial,6500,470,Hologauze Display Screens,Fitting transparent projection surfaces,4
+Commercial,6500,470,Piezoelectric Energy Tiles,Installing foot traffic power generation flooring,6
+Commercial,6500,470,Reactive Architecture Elements,Constructing movement-responsive building features,8
+Industrial,16000,820,Synthetic Spider Silk Plant,Building artificial protein fiber production facility,15
+Industrial,16000,820,4D Printing Research Center,Constructing shape-changing material development lab,14
+Industrial,16000,820,Cultured Meat Bioreactor Facility,Setting up lab-grown protein production plant,12
+Industrial,16000,820,Molecular Assembly Plant,Building atom-by-atom manufacturing facility,11
+Industrial,16000,820,Smart Dust Production Line,Constructing microelectromechanical system factory,13
+Infrastructure,38000,1150,Archology Construction,Building self-contained city-in-a-building,13
+Infrastructure,38000,1150,Lunar Gateway Earth Station,Constructing moon mission control center,12
+Infrastructure,38000,1150,Robotic Underground City,Building subterranean automated urban environment,22
+Infrastructure,38000,1150,Artificial Island Creation,Constructing man-made land mass in ocean,14
+Infrastructure,38000,1150,Atmospheric Scrubber Array,Building large-scale air purification system,20
+Residential,380,220,Holographic Entertainment Room,Installing 3D projection system for gaming and movies,3
+Residential,380,220,Biometric Health Monitoring,Fitting various health tracking sensors throughout house,3
+Residential,380,220,Home Waste-to-Energy System,Installing small-scale garbage-to-power converter,3
+Residential,380,220,Adaptive Noise Cancellation,Fitting active sound control system in walls,2
+Residential,380,220,Programmable Matter Furniture,Installing shape-shifting nanotech furniture,2
+Commercial,7500,520,Quantum Encryption Network,Implementing unhackable communication system,6
+Commercial,7500,520,Brainwave Shopping Interface,Installing thought-controlled purchasing system,8
+Commercial,7500,520,Robotic Restaurant Kitchen,Setting up fully automated food preparation facility,8
+Commercial,7500,520,Interactive Molecular Gastronomy Lab,Building public food science experience center,5
+Commercial,7500,520,Zero Gravity Simulation Chamber,Constructing weightlessness experience facility,4
+Industrial,25000,980,Metallic Hydrogen Production,Building exotic material synthesis facility,8
+Industrial,25000,980,Femtosecond Laser Machining Center,Constructing ultra-precise cutting facility,9
+Industrial,25000,980,Bose-Einstein Condensate Factory,Building quantum state matter production plant,13
+Industrial,25000,980,Antimatter Containment Facility,Constructing exotic particle storage unit,8
+Industrial,25000,980,Artificial Photosynthesis Plant,Building sunlight-to-fuel conversion facility,11
+Infrastructure,50000,1400,Global Internet Satellite Constellation,Constructing low-orbit communication satellite factory,24
+Infrastructure,50000,1400,Planetary Defense System,Building asteroid detection and deflection facility,12
+Infrastructure,50000,1400,Deep Sea Data Cable Hub,Constructing undersea internet superhighway node,19
+Infrastructure,50000,1400,Dyson Swarm Ground Control,Building solar satellite swarm command center,10
+Infrastructure,50000,1400,Geoengineering Command Center,Constructing global climate intervention facility,13
+Residential,450,260,Domestic Fusion Reactor,Installing home-scale nuclear fusion power plant,3
+Residential,450,260,Molecular Assembler Kitchen,Fitting Star Trek-style food replicator system,3
+Residential,450,260,Personal Spaceflight Simulator,Building g-force training and space experience room,2
+Residential,450,260,Quantum Computer Study,Installing room-temperature quantum processing unit,4
+Residential,450,260,Teleportation Pad Prototype,Setting up quantum entanglement transport experiment,4
+Commercial,10000,650,Neural Interface Shopping,Implementing direct brain-to-store communication system,9
+Commercial,10000,650,Antimatter Art Gallery,Constructing exotic particle visualization facility,6
+Commercial,10000,650,Time Dilation Experience Chamber,Building relativistic physics public education facility,7
+Commercial,10000,650,Bioluminescent Retail Ecosystem,Creating living light-based product showcase,4
+Commercial,10000,650,Scentography Theater,Constructing story-telling through smell facility,5
+Industrial,30000,1050,Dark Matter Detector Facility,Building exotic matter research plant,9
+Industrial,30000,1050,Artificial Mini-Sun Facility,Constructing controlled fusion reaction test plant,13
+Industrial,30000,1050,Room Temperature Superconductor Plant,Building zero-resistance material production facility,9
+Industrial,30000,1050,Higgs Boson Collider,Constructing particle physics research accelerator,11
+Industrial,30000,1050,Quantum Teleportation Network Hub,Building entangled particle communication center,14
+Infrastructure,60000,1500,Space Elevator Construction Facility,Building orbital tether production plant,10
+Infrastructure,60000,1500,Terraforming Technology Test Site,Constructing planetary environment modification lab,20
+Infrastructure,60000,1500,Interstellar Probe Launch Facility,Building deep space mission control and launch site,14
+Infrastructure,60000,1500,Global Pandemic Early Warning System,Constructing worldwide disease detection network,13
+Infrastructure,60000,1500,Sustainable Megacity Prototype,Building self-sufficient urban environment model,22
+Industrial,679,258,Roofing,Second medical history fill support part fund staff.,34
+Industrial,691,597,Finishing,Great technology receive hit table enough wide other ever sort age outside agreement yes president town.,1
+Residential,809,456,Excavation,Memory quality personal focus there down economy opportunity run per at two enter town side.,55
+Commercial,8725,312,Foundation,Its season land beyond free success organization move father box ground move social government star protect lay safe nation.,12
+Industrial,7697,279,Finishing,Former report add medical.,35
+Commercial,794,185,Plumbing,President claim Congress deep listen stuff ground hotel store hard.,39
+Residential,2676,223,Roofing,Important clear past important serious operation often news offer adult management.,22
+Commercial,9364,607,Structural Framing,School agreement ball two.,42
+Infrastructure,9266,475,Exterior Cladding,Establish some important thank bag her national church land reason too stage successful.,49
+Commercial,8233,621,Electrical,Lay amount present hair data performance carry customer blue focus type bad.,13
+Industrial,5787,232,Roofing,Along main mean teacher perhaps officer hair.,38
+Industrial,3472,711,Electrical,Record five thought add establish management.,24
+Commercial,4006,542,Structural Framing,Our just bring just.,52
+Commercial,9347,438,Excavation,Dark scientist any provide very in identify born trouble glass choice Mrs child.,50
+Residential,6137,263,Structural Framing,Tax fire another clearly national participant rich cost.,38
+Commercial,4971,364,Foundation,Federal who record inside thus foreign bit for bed.,31
+Infrastructure,2777,333,Foundation,Discuss soldier surface story message I executive significant identify whether.,22
+Commercial,3979,519,Plumbing,Too someone store bill throw walk foot finish actually ground.,23
+Industrial,4326,522,Finishing,Between parent party month method pay lose arrive defense management term subject development.,55
+Residential,4155,400,Structural Framing,Maybe consider particularly coach evening report month environmental add role science wide.,7
+Industrial,5312,355,Excavation,Music popular scene life former anything history few.,49
+Infrastructure,9788,195,Structural Framing,Note side recognize would interest difficult cold wait.,48
+Commercial,3875,326,Excavation,Its mind wrong example thought return at city free never service.,50
+Infrastructure,6318,223,Exterior Cladding,He southern soldier development option big help Mr allow activity.,43
+Residential,8638,325,Finishing,Low without join glass their interest read.,11
+Commercial,7822,206,Foundation,Music trip many attention game smile about see sea.,1
+Industrial,6507,462,Plumbing,Well both writer her help determine cut reflect experience.,36
+Commercial,5294,221,Roofing,Realize young cultural base nature huge and cold night exactly same.,23
+Infrastructure,2489,713,Finishing,Sister wall stop government mention customer lay friend here these allow his.,42
+Residential,6036,286,Excavation,Truth oil thousand morning big image free low budget player other yard visit.,10
+Industrial,1830,648,Excavation,Campaign indeed student state thousand simply charge organization president student.,57
+Infrastructure,9023,279,Foundation,Writer there loss whatever share difficult impact value.,59
+Residential,743,518,Finishing,Event large much stay light hand new group front third door require.,24
+Commercial,6832,434,Foundation,School prepare spring loss station simply.,41
+Infrastructure,8664,712,Plumbing,Lawyer exactly security study just wide.,6
+Infrastructure,5505,381,Structural Framing,Study mean pass free some seek just the sign.,42
+Commercial,4888,291,Roofing,Expert left man scene.,56
+Commercial,511,387,Foundation,Spring ever reduce film it road sign something clearly miss meet.,27
+Industrial,9290,454,Excavation,Small suggest same ok avoid raise far play operation service recently food stuff democratic.,25
+Residential,6934,727,Foundation,Social agent under group themselves yes believe to detail smile together assume respond book might.,14
+Residential,618,679,Roofing,More magazine gas necessary southern whom door in price.,11
+Industrial,7775,598,Roofing,Need near something join view likely here nice quality.,33
+Industrial,645,391,Structural Framing,Myself case man control yet reveal office at direction nature send growth.,52
+Commercial,5953,530,Structural Framing,Scene art upon manage vote probably dog.,19
+Residential,6760,192,Finishing,Example wish resource hope black finish establish wish benefit drug rather oil.,59
+Infrastructure,7075,708,Roofing,Could later natural rule ahead risk between ago.,56
+Residential,2855,534,Electrical,Expert social suggest way four career company upon.,12
+Commercial,6697,381,Foundation,Whatever example oil dream conference which.,41
+Industrial,5178,269,Plumbing,Since heart cover nice true exactly no get evening daughter need watch might outside break positive.,35
+Residential,4852,352,Roofing,Behavior agreement any scene bad before box family few do human coach American class name carry.,12
+Residential,2736,325,Finishing,Take see young approach despite.,60
+Industrial,5607,555,Exterior Cladding,Late suggest couple heavy program fish mention wife benefit site knowledge me east hour action.,9
+Industrial,2925,375,Structural Framing,Someone miss indicate part appear network skill force before population area loss maintain add assume million build maintain.,19
+Infrastructure,6670,611,Structural Framing,Human reduce big follow five evidence claim write PM since art such machine authority just chair actually plant sit parent.,18
+Commercial,1993,332,Excavation,Concern get there kid compare camera particular line attorney husband defense road including body trouble artist.,16
+Residential,8917,604,Plumbing,Knowledge but less production imagine present already listen direction control fish heavy specific pattern.,47
+Infrastructure,7491,655,Finishing,Civil be decade buy drop week issue.,34
+Residential,7682,632,Roofing,Know black degree subject rate whether process keep most.,22
+Residential,881,553,Electrical,Red around course tree.,43
+Industrial,3721,508,Finishing,Thought daughter its but they local people prevent successful myself fire.,3
+Commercial,6686,664,Electrical,Development boy serve herself good want best relate most.,54
+Infrastructure,5771,377,Exterior Cladding,Build heart training investment however summer general none chance.,29
+Commercial,3407,275,Plumbing,Until now area participant as.,41
+Residential,6102,251,Structural Framing,Game less writer eat book.,11
+Commercial,7935,254,Exterior Cladding,Good most upon hotel may hour.,16
+Industrial,871,389,Finishing,Memory quickly authority so other allow building may budget likely.,41
+Industrial,7895,525,Exterior Cladding,Choice center water mission conference exist control reduce imagine.,25
+Industrial,8550,250,Finishing,Half such thing wide space government something.,54
+Residential,5015,447,Structural Framing,Manage step reveal through drive.,19
+Industrial,3808,393,Electrical,Send pressure process manage could member be somebody learn.,17
+Residential,4166,250,Roofing,Say boy bring game among hand out ok call just environment result president later service either such.,13
+Commercial,2462,482,Exterior Cladding,Assume hot operation option magazine bit who begin begin picture difficult from history glass would.,35
+Residential,5727,484,Exterior Cladding,Tree take class so foot enter still defense game Congress fund particularly become sea despite affect.,9
+Commercial,1509,580,Excavation,Mouth where story so within possible view more whether good own remain arrive current hotel too.,11
+Industrial,840,707,Plumbing,Sing now sister animal down red test as hot ago.,27
+Industrial,6307,689,Excavation,Mention bit beyond near ability wish least example camera.,6
+Commercial,6390,333,Roofing,Behind to such suddenly state mother mind throughout ok.,38
+Industrial,1511,656,Roofing,Argue oil style step unit job leave.,2
+Residential,6126,451,Roofing,Character some agree bill culture use purpose accept also claim listen case training service.,24
+Infrastructure,6764,602,Structural Framing,Floor one spring movement rich onto rate response.,45
+Residential,4558,572,Roofing,Law off me hospital approach report understand after amount leader bed.,23
+Commercial,4928,709,Exterior Cladding,Someone while Democrat PM simply school that issue body you position wrong practice size how.,5
+Infrastructure,4378,314,Exterior Cladding,Court firm million ten world treatment woman around wife worry I top.,5
+Infrastructure,3316,651,Exterior Cladding,Development the sign pass source.,15
+Infrastructure,9152,349,Exterior Cladding,Despite might expert feeling decide tax expect follow technology tree soldier.,2
+Industrial,8651,331,Roofing,House keep miss quite eye manager particularly society behavior dark yourself care.,43
+Commercial,9990,471,Exterior Cladding,Mean blood color run offer myself president PM my already hear.,26
+Industrial,6060,296,Excavation,Treat board room opportunity now effect.,13
+Residential,4632,349,Roofing,Color for coach fight blue pay system everybody.,31
+Industrial,6148,325,Electrical,Trial likely institution thank suddenly month.,26
+Industrial,1994,413,Exterior Cladding,Oil edge billion stage dream investment technology painting personal practice box voice fear rest citizen air she agency half.,42
+Industrial,5663,192,Plumbing,Expect success us attack including along foreign.,54
+Residential,9716,577,Exterior Cladding,Coach without media product baby many bar large force present.,28
+Commercial,3742,589,Structural Framing,Organization tend job future picture PM discover.,26
+Infrastructure,2520,614,Finishing,Identify though week exist green best.,57
+Industrial,3361,613,Finishing,Face join expect kind dark staff.,8
+Commercial,8790,466,Excavation,President ok whole remember dream for table letter remember.,26
+Residential,2936,447,Excavation,Office western course various full camera sell back rate member reflect base offer material letter.,15
+Residential,5456,300,Excavation,Down war medical security actually hair employee recently stuff offer technology assume great new baby value pick.,58
+Industrial,3856,380,Finishing,Rise almost father catch natural seek upon score off point.,17
+Industrial,9927,196,Roofing,Evening marriage key station rule since production answer thing force pass pressure detail white federal ahead weight improve.,42
+Residential,6947,362,Exterior Cladding,Order information have travel plan.,19
+Commercial,8143,231,Finishing,Throw ground attention book only kid back.,58
+Residential,9377,470,Exterior Cladding,Drop organization everyone ground attack item bring experience free.,32
+Infrastructure,2237,519,Finishing,Mean quickly space hundred country white low hand.,56
+Commercial,1227,469,Finishing,Peace guy question special traditional light town.,52
+Industrial,6464,688,Structural Framing,Couple left eight sure accept throw hospital likely kind.,40
+Industrial,1078,242,Exterior Cladding,Story yes soon Democrat when food.,32
+Infrastructure,1578,327,Plumbing,Personal entire way type woman performance bill catch itself.,40
+Industrial,6791,346,Structural Framing,Game more area community though through century arm only in majority building.,49
+Residential,4021,213,Roofing,Middle serve trade body system government system anything need energy again war focus world shoulder girl full rise alone.,13
+Industrial,9896,586,Roofing,During college career travel still dark building staff go drop move away seek project top box strategy.,36
+Industrial,2029,477,Electrical,Cell hope main health important born.,2
+Residential,1261,530,Roofing,Often task head fast scene clearly others recognize believe phone speak.,33
+Industrial,7156,346,Plumbing,Make quite tough treatment direction base through sound career animal material seek sea work pattern.,19
+Residential,865,189,Excavation,Hold any environment television job particularly business body news care.,15
+Infrastructure,2228,541,Exterior Cladding,Sport court of policy task decide.,53
+Infrastructure,9895,456,Electrical,Box town manage as compare pattern three.,28
+Industrial,8890,321,Excavation,Group before close note democratic culture occur huge whose least stuff provide perform against.,58
+Residential,6396,645,Structural Framing,Buy attack although action hope law federal.,59
+Industrial,1490,273,Foundation,Newspaper wait find statement our force stay.,11
+Industrial,2464,467,Plumbing,Debate different town data grow unit company different trip light likely.,25
+Commercial,4671,604,Plumbing,Father treat early off easy high store move dark.,10
+Industrial,1008,367,Exterior Cladding,Different believe reflect create while door young organization reality capital far ready plan thought film.,7
+Commercial,6136,377,Excavation,Compare large project million class.,58
+Industrial,617,479,Roofing,Role positive nor budget community letter thank turn star factor.,14
+Infrastructure,2050,335,Electrical,Difficult general specific large offer follow their.,19
+Industrial,7574,357,Roofing,Nice to forward production chair ready produce.,1
+Commercial,1172,294,Electrical,Join myself scientist four gun sense matter experience.,40
+Commercial,1918,267,Structural Framing,Be national dream them guy site rock consider.,1
+Infrastructure,558,517,Exterior Cladding,Follow lead late language over fight mention.,24
+Industrial,8175,499,Electrical,Reality quickly budget whatever partner.,12
+Infrastructure,6806,649,Excavation,Affect smile how think mind agent stuff here her me reality board bill store door build life bad school.,55
+Residential,4706,396,Roofing,Analysis though food most yeah girl end.,38
+Industrial,1204,497,Foundation,Western decision scene strategy become full race health perhaps.,56
+Commercial,9153,617,Roofing,Seat cut employee figure national sign public no try economy.,29
+Commercial,1640,642,Excavation,Low fill little court authority live including.,10
+Commercial,880,303,Structural Framing,Season sound general worry executive.,27
+Industrial,3423,324,Electrical,Such what student election from spring lot watch often short.,4
+Commercial,6515,257,Structural Framing,Report morning skill work our reduce image east crime foot.,41
+Residential,5802,657,Exterior Cladding,Trial next art own as keep.,38
+Industrial,5438,360,Plumbing,Speech listen about easy walk spring enough year lose send send majority.,36
+Industrial,9314,713,Foundation,Administration why president ability.,16
+Residential,9897,432,Electrical,Pm important put try summer top crime just.,48
+Industrial,5750,439,Plumbing,Establish floor doctor above.,45
+Industrial,2149,284,Structural Framing,Very and important participant image would same.,19
+Infrastructure,4573,195,Plumbing,Guy step thus room section first institution.,25
+Industrial,6623,659,Exterior Cladding,Doctor compare garden action accept there middle statement cost.,18
+Commercial,1745,573,Plumbing,Board from themselves research probably work last.,52
+Residential,8547,590,Electrical,Partner now scientist break shoulder score conference attack increase property teacher official station approach ground.,30
+Residential,5222,290,Exterior Cladding,Success discover under determine service material fill claim treatment wear family front.,40
+Commercial,5548,473,Plumbing,Behavior now on simply speak while in level letter.,28
+Commercial,4889,552,Electrical,Church improve change describe play lead protect mention agreement why later but available.,20
+Residential,5259,247,Finishing,Around purpose toward to any song.,33
+Residential,4162,202,Exterior Cladding,Process one Congress focus especially activity building standard know.,27
+Residential,9023,427,Excavation,Financial whose discuss list scene have manager draw he choice environment according.,51
+Infrastructure,6052,213,Exterior Cladding,Large ok decision standard modern minute base.,11
+Commercial,3363,321,Finishing,Sport deep individual reason stay onto activity decade.,6
+Commercial,5890,517,Plumbing,Cause stock reveal question field administration suddenly seem north art someone somebody mouth thank unit draw.,21
+Commercial,2078,249,Plumbing,Take reveal attention structure clear garden more cup trial picture wall customer.,49
+Residential,5107,620,Structural Framing,Girl kitchen light lose writer drop trip subject.,52
+Infrastructure,1491,259,Foundation,Get live senior yet product same.,9
+Infrastructure,5954,691,Exterior Cladding,Large effort spend image financial sister put.,59
+Industrial,6281,210,Electrical,Miss official most brother ten positive child back ten foot campaign account beat simple end early training image.,50
+Commercial,5690,338,Electrical,Whom next write road gas wife TV word charge social view include.,38
+Residential,7269,485,Excavation,Sea board red above oil where natural.,18
+Residential,3285,674,Excavation,Once guess need environmental hotel hard try very section picture well everybody nice matter.,16
+Residential,4313,518,Excavation,Such be plan consumer amount figure building different structure science minute college field within each save minute.,58
+Residential,5687,541,Structural Framing,Others staff act else.,46
+Residential,1137,686,Plumbing,Sea already surface able system.,46
+Residential,1166,675,Plumbing,Material forget there glass one practice outside tend true question.,7
+Industrial,4057,595,Roofing,Imagine bill sort mind agree sign serious think want citizen vote it include sometimes.,41
+Infrastructure,8049,225,Excavation,Couple future memory add require lay impact high ahead radio gun.,17
+Infrastructure,5930,720,Foundation,Such race tree beat voice industry bed notice.,9
+Commercial,4725,255,Finishing,Live until pressure allow finish price then travel son bad Democrat relate.,2
+Infrastructure,9912,349,Finishing,Fund relationship we left television body discuss rich surface keep.,58
+Residential,8684,304,Exterior Cladding,There key easy certain interest base building here tonight.,19
+Residential,6245,499,Structural Framing,Day collection off tell professional now.,21
+Commercial,2060,611,Exterior Cladding,Reality wait lead member watch light source easy whose situation three try.,15
+Residential,8200,339,Finishing,Tend example rule fill not read.,45
+Commercial,7591,339,Roofing,School employee challenge structure practice thought production.,35
+Residential,4413,517,Foundation,Opportunity design sure letter summer talk.,17
+Commercial,9888,446,Structural Framing,Former watch can dog water later century happen fear miss letter.,12
+Industrial,5220,547,Exterior Cladding,At religious include beautiful occur company smile would.,16
+Residential,3111,586,Finishing,Product such you tell.,5
+Residential,561,677,Finishing,Game my want require probably north member poor.,15
+Commercial,6610,656,Finishing,Not upon brother prove today hold through.,59
+Residential,2802,337,Electrical,Visit available brother organization news those various camera always.,47
+Residential,9468,691,Structural Framing,Leader type opportunity manager her course series building blood challenge.,43
+Infrastructure,4495,573,Foundation,Yes tax tell lawyer old morning and hotel something language.,42
+Infrastructure,1240,541,Plumbing,Rule act wind amount decision assume build wear drive plan boy beyond long though once.,5
+Infrastructure,3623,420,Plumbing,Reduce position space paper very best lead write summer professional word speak station check.,32
+Residential,1992,687,Exterior Cladding,Gas mother mother leader send water however their.,54
+Industrial,1099,407,Foundation,Development political student rather always shoulder.,47
+Infrastructure,2370,688,Structural Framing,Grow cut trade certain television sense hour left federal story.,17
+Residential,6546,428,Roofing,Both ability administration short grow want half about court mouth through final.,59
+Residential,8003,194,Roofing,Stock five glass husband beat president hundred hard.,18
+Industrial,9557,678,Excavation,Sort ask growth conference present down send near full sea.,29
+Residential,7499,256,Structural Framing,Adult according movie own participant against behavior keep course ability two before subject candidate same run.,24
+Residential,1427,702,Electrical,Usually owner seem their follow.,2
+Residential,3997,234,Plumbing,Purpose unit poor religious attorney without station before control note often not time break measure bed.,23
+Industrial,7728,351,Excavation,Your task develop sign professional book beat.,56
+Infrastructure,8407,347,Plumbing,Blood read charge until safe cover conference blood agency create.,43
+Residential,9655,598,Foundation,Walk writer road of specific spring American look decade small move bill environmental professor program.,3
+Residential,4421,227,Plumbing,Quality see bar walk agent color.,23
+Commercial,8927,387,Excavation,List fund special include we data heart program contain cold.,23
+Residential,7619,724,Exterior Cladding,Mind company hope among American mouth be TV range range thousand.,15
+Infrastructure,1210,722,Excavation,Prove space area experience cold Democrat last fight first draw.,14
+Infrastructure,2472,326,Roofing,Dark six factor today first identify bad family strong approach art interest some treat standard.,23
+Industrial,8721,345,Excavation,Recent to young college like.,60
+Industrial,7798,218,Roofing,High argue opportunity first.,14
+Residential,7946,698,Excavation,Across they partner civil.,1
+Industrial,4195,308,Excavation,Group factor the foreign baby collection mean like food toward ground there stay.,5
+Commercial,3301,324,Plumbing,Sign president fact perhaps consumer population choice certain.,39
+Commercial,5776,418,Exterior Cladding,International trip me every seek benefit throughout eight star director.,6
+Industrial,8097,427,Excavation,Performance throughout executive tree white bar rise.,29
+Residential,6596,379,Excavation,Else much man business.,6
+Commercial,3076,220,Roofing,Feel maybe bill whether eat interest capital Mrs firm.,12
+Commercial,2177,516,Plumbing,Ahead meet decision economy seven yeah few.,19
+Infrastructure,5791,730,Foundation,Base door husband will admit every prepare help environment together bar data but account list manage price pull close.,59
+Industrial,3860,322,Plumbing,About stop bill employee offer prevent community wait see son there American.,23
+Commercial,5305,549,Finishing,Think subject question pick what or institution.,9
+Infrastructure,2538,691,Exterior Cladding,Who certainly throughout less try difference yourself control relationship contain bed whole minute.,10
+Commercial,9859,359,Roofing,Yet prevent to number official will away front however.,33
+Infrastructure,9721,195,Exterior Cladding,Very deep rest to could well lawyer order plan.,31
+Industrial,4368,489,Roofing,Plan American response development gas ever cover eight evening word message his.,14
+Commercial,7627,539,Structural Framing,Light hard sport call although population allow.,19
+Residential,9332,700,Foundation,Picture senior measure feeling raise.,59
+Commercial,5853,464,Roofing,On eight approach leave political commercial exist black.,20
+Residential,2643,248,Excavation,Third project impact language magazine friend bill be.,7
+Infrastructure,1912,193,Excavation,Side range vote attorney even great left well clear.,12
+Industrial,7795,213,Foundation,Owner almost account plan he quite.,48
+Commercial,5365,589,Finishing,Organization himself office they year decade strong end stuff sit drive.,24
+Commercial,6167,706,Roofing,Beautiful former strong call mind soldier.,45
+Industrial,4087,716,Foundation,Because it pull time factor want great popular out of know bar.,33
+Commercial,9832,692,Electrical,Gas century call be green cultural PM mention side place land former today.,36
+Commercial,7805,540,Finishing,Cover expect recently skill it.,47
+Commercial,3548,445,Roofing,Foot while step talk city challenge hotel yourself many suffer simply control course community.,22
+Infrastructure,2440,710,Foundation,Else type bad defense finally drop American foot community pass Democrat.,27
+Industrial,1898,287,Foundation,Pay rise morning section friend similar line feel direction spend situation the another.,37
+Commercial,6989,346,Roofing,Movement center class guess us range bank bed want over only.,32
+Infrastructure,8143,638,Structural Framing,Service whom father meeting travel least job full among him important.,53
+Residential,6851,216,Finishing,Left across whose determine nothing bag interesting billion.,34
+Commercial,9657,621,Structural Framing,Entire business board option behavior own represent.,5
+Residential,5098,485,Electrical,Rather popular economy.,5
+Industrial,8362,407,Roofing,Against serve society process success no debate possible.,22
+Industrial,8907,499,Excavation,Mention board effect live hour fly heavy stop through gun.,29
+Residential,7316,602,Plumbing,Dog expert apply peace reason know view war arrive for painting.,5
+Residential,2499,514,Foundation,Right hold two property trouble win doctor left ten improve its full deep realize analysis yes.,58
+Commercial,2599,642,Finishing,Each money four speech participant box born himself scene right big.,42
+Infrastructure,4806,645,Roofing,Economic enjoy politics gas enough occur can type letter large drive laugh.,2
+Commercial,6911,307,Plumbing,Away its health process move public media everybody identify professor south.,46
+Industrial,1799,631,Electrical,Religious evening get couple wife Congress leave hair garden door to leave argue.,52
+Residential,1052,648,Roofing,Capital system fact establish move language face off player long television nation school.,59
+Residential,6338,494,Plumbing,Eight able yeah ball or many member close director.,30
+Infrastructure,4597,225,Foundation,Possible however draw Democrat before painting play item able election among.,42
+Commercial,7145,647,Electrical,North some say travel left site marriage list since with strong consider total drop response then.,57
+Residential,4733,421,Exterior Cladding,Perhaps term century professor find its everybody see teach no sure right main shoulder name morning response.,60
+Commercial,9163,523,Roofing,Really or reach before movement floor such.,19
+Infrastructure,1444,331,Exterior Cladding,Close want couple machine society understand identify today view minute employee position.,24
+Infrastructure,4464,454,Electrical,Enough hear second thing.,15
+Residential,1831,243,Foundation,Organization act central crime stock market newspaper similar skill allow owner great.,25
+Industrial,6717,314,Foundation,Lawyer within my federal if.,10
+Infrastructure,7390,331,Roofing,Mean sister close must before later.,23
+Infrastructure,6865,469,Plumbing,Focus concern result situation after movement message ten out difficult sing.,4
+Infrastructure,1952,484,Plumbing,Up heart cultural movement music themselves ahead finally organization.,2
+Residential,8205,542,Roofing,Benefit tend strong maintain staff.,18
+Commercial,4693,382,Foundation,Simply several sure top rule side suffer.,60
+Infrastructure,7640,280,Foundation,Scene believe analysis weight standard population sound crime development phone that question where represent ago.,50
+Industrial,912,221,Structural Framing,Save mind long oil business site chance believe miss bill standard learn throughout.,33
+Infrastructure,6287,717,Finishing,President these wide building attack heavy nation morning.,55
+Industrial,2647,657,Exterior Cladding,Friend plant indicate rather material phone attack public.,58
+Industrial,5763,378,Excavation,Win six score short interest dream current list.,43
+Industrial,5570,420,Plumbing,Church quite yes these stay prove must.,24
+Residential,9830,466,Roofing,Speak the news agreement matter.,7
+Infrastructure,5814,461,Excavation,Quality add husband for story popular upon section movement.,30
+Commercial,6174,409,Plumbing,Laugh economy way section would probably I school attorney carry between soldier involve opportunity avoid expect side management.,56
+Infrastructure,5130,441,Roofing,Best pull child very receive study government employee decision much.,20
+Residential,6851,588,Plumbing,Head fish nice near raise give woman summer blue also support three force away nearly.,48
+Industrial,1302,567,Roofing,Group cold fund standard expect answer stage so Mr travel.,58
+Commercial,7503,282,Excavation,Seek occur physical eye near plan prevent out.,57
+Infrastructure,2036,660,Foundation,Military parent last.,5
+Infrastructure,6512,385,Electrical,Great short five argue I summer consumer natural.,29
+Industrial,9106,286,Finishing,Public speak the thank how blood order song ball require.,16
+Residential,5855,208,Plumbing,Every newspaper environment foot never get discuss into feeling reason.,1
+Commercial,9867,682,Roofing,Industry involve fly result enter news in.,10
+Commercial,766,547,Roofing,Lot attorney often at miss former us away watch value tax enjoy big operation sea.,39
+Infrastructure,2037,331,Structural Framing,Hope culture any president follow film decision hope receive information employee.,59
+Residential,2689,520,Roofing,Concern major week writer news seven age responsibility section voice.,9
+Infrastructure,2929,631,Exterior Cladding,Fund great up better human response official natural tax several.,58
+Industrial,2102,366,Roofing,Support firm ground else federal guy accept message.,31
+Residential,1945,307,Exterior Cladding,Outside should national go seem section property authority page.,6
+Industrial,2780,596,Electrical,Key care financial news raise war capital case significant add account statement career ever order.,1
+Industrial,1445,522,Plumbing,World want piece feeling.,19
+Industrial,7012,314,Electrical,Charge can others son eat former.,3
+Industrial,7687,402,Exterior Cladding,Serve nothing billion debate analysis rise minute series surface citizen west.,11
+Commercial,4137,221,Exterior Cladding,Job model truth draw day whether sign chair ago dog thought general probably investment.,42
+Commercial,4362,379,Finishing,American side management miss adult number security young rather relate body positive program race treat road.,42
+Infrastructure,649,302,Electrical,Action bank hospital understand mind upon arm dog.,60
+Industrial,6965,687,Structural Framing,Fear argue play serious believe hard responsibility say site will any style address.,48
+Commercial,7404,189,Structural Framing,Large store inside peace dream education pick free.,18
+Industrial,5926,641,Structural Framing,That top continue despite deep cup pull religious.,30
+Industrial,4142,351,Finishing,But recently light artist reduce add office cut.,42
+Commercial,5029,688,Foundation,Discuss grow new several lose feel major already trip house account floor old hope.,52
+Residential,4774,593,Roofing,Her development stop single market those end.,15
+Commercial,6824,625,Finishing,Democratic central my concern whom cause life.,56
+Commercial,2893,262,Structural Framing,Economy nearly that word yeah while help off option.,40
+Commercial,6541,436,Finishing,Foreign his answer occur month peace.,28
+Industrial,3770,224,Roofing,Song compare success adult head interest country us opportunity agency western realize card per next thank stand.,6
+Commercial,7257,466,Exterior Cladding,Marriage wall religious crime answer responsibility here recently sure late magazine relate seek scientist art begin.,6
+Industrial,6678,399,Roofing,Affect game participant realize red Republican second full agent my.,20
+Industrial,8314,262,Exterior Cladding,Ten enter window benefit evidence picture set Mrs black all thousand rate ability prove practice until officer.,12
+Industrial,5187,579,Structural Framing,Remain trade option politics possible identify worker arm economic cut skill.,34
+Residential,6406,544,Finishing,Technology sign quickly do phone gun just part success fear I perform I.,19
+Infrastructure,7573,250,Roofing,Deal miss put employee so country available surface building type something amount local.,52
+Industrial,4974,697,Plumbing,Into especially less suddenly film sport.,50
+Residential,5691,589,Roofing,Certainly medical region performance hand during individual forget condition worry.,12
+Infrastructure,2183,717,Roofing,Base radio Mr size and cultural boy close public economy.,59
+Infrastructure,8088,259,Structural Framing,Evening finally amount head stand language someone TV day tonight.,41
+Commercial,8501,410,Foundation,Service market future value health today me anyone draw this behavior.,55
+Industrial,2720,272,Excavation,Image seem heart notice as set chance after evidence music about.,41
+Industrial,5908,529,Exterior Cladding,Suffer shake as economy pass play great land data sister.,28
+Residential,8402,676,Roofing,There natural left main perhaps each allow eat peace million show generation everybody rest I chair.,35
+Commercial,6852,337,Electrical,To little paper policy cut record according.,38
+Infrastructure,6559,280,Excavation,Indicate word door serious administration second receive election leg school sing have arm throughout figure.,14
+Commercial,966,270,Structural Framing,Drive party environmental any nation today reality career per.,3
+Infrastructure,9858,261,Structural Framing,Kind travel wonder reflect would try this Republican performance station per.,3
+Industrial,8588,565,Foundation,Garden doctor during environmental me discussion recognize.,58
+Industrial,7161,543,Exterior Cladding,Hold guy take kitchen worker success similar section.,20
+Infrastructure,5565,642,Finishing,Machine style already there center apply decide concern.,13
+Commercial,9340,290,Foundation,Ten pattern walk staff heavy memory what business only.,15
+Commercial,8105,376,Excavation,Single defense summer task since color human.,12
+Commercial,7049,458,Exterior Cladding,Toward performance minute standard evening attention agree moment fear themselves two though.,1
+Commercial,4364,625,Plumbing,Once worry power every business even international wish win commercial.,24
+Residential,3761,264,Foundation,Above Mrs field per.,15
+Infrastructure,1585,461,Structural Framing,Note class audience great benefit beautiful.,1
+Commercial,4290,549,Finishing,Together floor mention many style mother stay person analysis source side rest.,18
+Infrastructure,6047,269,Foundation,Character war interesting face gas fine question participant edge.,38
+Commercial,3983,479,Plumbing,They mention pressure bed no similar care form he attorney development government doctor this.,36
+Infrastructure,844,411,Plumbing,Debate suggest term seven behavior fall thank even certainly role watch performance free.,59
+Commercial,4114,621,Structural Framing,Know yes ok as garden upon natural politics himself new.,28
+Infrastructure,7057,455,Plumbing,Begin south idea letter spend maybe.,43
+Commercial,6930,702,Electrical,Remember effect idea explain design idea food.,59
+Residential,7512,707,Roofing,Individual south financial fear leave apply new take entire it.,41
+Industrial,700,291,Roofing,Head present more likely through.,40
+Residential,6862,340,Foundation,Lose if guess lead because until serious instead strong any center according first rise describe us take mind recently.,36
+Industrial,4161,317,Structural Framing,Maybe manage new agree economic official old prove partner yourself area.,40
+Infrastructure,2162,701,Foundation,Only front fund late whom.,57
+Industrial,7694,314,Excavation,Writer as stand single she floor reduce rest nothing keep of loss peace fact such industry trouble.,25
+Commercial,4914,671,Foundation,Fine major sit then learn finally although able suggest lay.,23
+Commercial,5873,212,Structural Framing,Hear school employee speech born throw middle impact how executive.,49
+Infrastructure,3289,427,Structural Framing,Including me push read several page remain.,10
+Infrastructure,3284,534,Finishing,Song size environment protect again position child left at theory rich.,36
+Commercial,1880,197,Roofing,Firm red group month single sound choice bed worker industry child get one.,40
+Residential,4998,390,Electrical,Early Democrat on certain then commercial environment people.,10
+Infrastructure,6204,242,Exterior Cladding,But service outside scientist already student simply plan current decision activity.,21
+Residential,7332,264,Structural Framing,Even near above down international movie sign somebody imagine.,9
+Commercial,7565,280,Finishing,International should hope opportunity onto thousand stuff these forward building clearly.,22
+Commercial,7962,388,Exterior Cladding,Late far inside whose address he expert concern.,9
+Residential,6154,320,Exterior Cladding,Information billion enough stand clear draw one list.,58
+Infrastructure,2616,349,Structural Framing,During maintain out ago institution.,28
+Infrastructure,6422,522,Excavation,Share finally recognize impact the special member box.,11
+Industrial,3251,481,Plumbing,Animal goal politics value history sister prove structure their run everything.,37
+Commercial,2394,213,Electrical,Sense huge knowledge school want soon size above his five challenge way weight.,16
+Commercial,6791,629,Roofing,Dog course last husband tend join position of wind word build news front study camera different anything beautiful serve.,43
+Residential,9571,523,Foundation,Above certain other scientist pay response.,21
+Residential,3547,546,Excavation,Police former understand forget recently return today often.,48
+Industrial,7671,346,Roofing,Which especially consumer theory at ready participant name general serve resource might.,12
+Residential,3385,537,Exterior Cladding,Of meet position upon early those young plan treatment.,51
+Commercial,3810,494,Structural Framing,Military data hold level bag water mean radio.,14
+Commercial,1009,517,Excavation,That or analysis exactly your seek western executive lawyer defense.,27
+Residential,5640,274,Finishing,Seat exist just discover officer property more catch these lawyer.,26
+Commercial,1456,345,Excavation,Sort Republican over arm old.,53
+Industrial,885,445,Electrical,Reduce lose region total series onto hot both glass tax growth pull guy.,47
+Residential,3100,655,Electrical,Ground look wind animal debate citizen here nor degree low wish.,57
+Infrastructure,5271,593,Exterior Cladding,Read quite kind natural keep sort talk but dark.,48
+Infrastructure,3940,581,Electrical,Minute morning response others list PM author key political enough.,24
+Commercial,9860,603,Structural Framing,Wait inside within eye answer majority walk seek heavy a.,21
+Infrastructure,5881,474,Foundation,Glass them PM song defense soldier card event shoulder big brother age force green something.,52
+Industrial,1403,538,Roofing,Movement truth face eat admit somebody million hospital result although back southern.,35
+Infrastructure,3964,438,Structural Framing,Can goal entire throw situation color.,34
+Commercial,5349,455,Exterior Cladding,Order Congress note page.,2
+Industrial,1824,408,Electrical,Mouth political center section billion seek respond her agreement quite entire any artist lose position unit garden.,31
+Infrastructure,8120,455,Exterior Cladding,Similar kind home approach style.,21
+Commercial,9004,215,Excavation,We total evidence back nor free movie everyone hope respond.,36
+Infrastructure,1951,639,Plumbing,Beat something business look truth serve catch heavy hit writer control blood occur cup foreign size put list.,21
+Infrastructure,3089,402,Electrical,Green development rather seek race than stock pressure continue idea entire less certain.,39
+Industrial,1886,569,Foundation,Win all good successful indicate against poor strategy area different very control.,52
+Infrastructure,4445,630,Excavation,Future whom newspaper country thank study defense identify information image each gun need partner.,4
+Commercial,8103,405,Finishing,Crime rule significant although fish.,41
+Commercial,2172,477,Foundation,Once generation almost finish none now bag per.,54
+Commercial,8961,638,Structural Framing,Safe Mr care Mr successful.,55
+Infrastructure,5651,292,Electrical,Still commercial impact but image hot if.,45
+Industrial,7428,605,Plumbing,Field peace rule born worker north space hear weight pay family federal.,31
+Commercial,5047,526,Electrical,Decade choose certain possible heart bad city worker point serious character.,55
+Residential,8281,698,Plumbing,Practice billion how lose entire.,5
+Industrial,8971,712,Roofing,Civil few bag population son great investment whole.,10
+Commercial,7089,717,Plumbing,Receive subject compare citizen.,20
+Industrial,6869,311,Finishing,Recognize situation memory book move woman not probably quickly.,25
+Residential,8332,248,Structural Framing,Address politics skill line fly along I.,41
+Infrastructure,7714,534,Electrical,Trouble agree training probably catch.,59
+Commercial,5868,570,Structural Framing,Health wait thousand car direction difference article model without appear culture exactly this American agent answer north risk left.,36
+Residential,4706,590,Foundation,Capital bar meeting information choice rich without service heart ever two first power process shoulder minute here letter.,12
+Residential,4576,653,Excavation,Mention me rise available moment environmental our practice may professional result civil.,24
+Residential,7669,284,Electrical,Scientist debate catch degree agency child remember southern behavior girl such budget.,6
+Industrial,9664,568,Plumbing,Doctor strong agency point cost like room force material doctor.,12
+Infrastructure,4196,352,Finishing,Argue part green significant exist summer affect day write position player every.,31
+Commercial,9936,296,Foundation,Politics may almost bar including one trip benefit campaign experience soon away scientist.,6
+Residential,5512,417,Electrical,Range grow condition remember wish.,45
+Industrial,4829,529,Excavation,Wonder claim find finish sing over lead step series throw how establish bank effort.,24
+Residential,2550,323,Plumbing,Mind treatment others next art effort social standard drop home life enter customer life.,24
+Infrastructure,7917,341,Structural Framing,Charge cut address subject Republican reveal stop lead lead rule respond seat.,41
+Industrial,8762,209,Exterior Cladding,Research mouth customer black treatment near fire hear suffer will from word blue away law and director.,8
+Industrial,2549,349,Roofing,Bit institution senior sport go growth career.,20
+Industrial,1742,453,Foundation,World office why have tree statement relate around take traditional let wonder place too.,59
+Infrastructure,8319,314,Roofing,Last police change majority may so result far next agreement likely police concern system.,15
+Industrial,2830,482,Foundation,Effort huge affect he minute raise score ok so would bed seek environment.,7
+Residential,8732,635,Plumbing,Movie off clearly hair page worry arrive above science continue.,57
+Commercial,9966,491,Exterior Cladding,Serious how performance cold.,17
+Residential,6861,343,Plumbing,Down early mind letter admit be can everybody collection station.,32
+Commercial,9655,349,Exterior Cladding,Allow want compare economy hope instead end after lose candidate beautiful.,44
+Infrastructure,8321,665,Plumbing,Anything space range carry without street full so Democrat security.,53
+Industrial,8226,366,Roofing,Product receive serious system camera public human would fall or.,54
+Industrial,1093,283,Structural Framing,Baby design past protect short boy leader suddenly hard nice.,4
+Infrastructure,2247,408,Finishing,My edge may record forward north mention.,9
+Commercial,4859,585,Roofing,Well job information he experience benefit set city.,42
+Infrastructure,4126,194,Roofing,Improve show face inside analysis remain we building bring do clearly put.,42
+Infrastructure,7534,227,Plumbing,Share sort short job behind everyone opportunity son left cover seat break billion year.,6
+Infrastructure,2505,297,Finishing,Seat force performance happy road outside.,15
+Residential,3035,565,Foundation,Law worker already by nothing drive it statement production capital.,11
+Infrastructure,3453,249,Roofing,Try market outside attack red resource staff front future.,9
+Residential,1423,204,Plumbing,Situation kitchen board operation here assume increase none lead career.,16
+Commercial,9307,629,Electrical,Effect region affect wind green determine choose positive week rate agreement black.,9
+Infrastructure,5530,400,Electrical,During relationship man nearly garden present newspaper.,43
+Residential,5832,371,Finishing,Majority number staff morning carry accept lay.,5
+Infrastructure,1844,356,Electrical,Whatever ago knowledge fly north development loss stop.,54
+Infrastructure,4572,339,Structural Framing,Market live paper write as expert decision art.,7
+Commercial,6851,679,Excavation,Bag form amount behind these item person.,59
+Infrastructure,6889,600,Electrical,Either option pull population career continue fast social conference.,42
+Residential,1590,394,Foundation,Way nature since interesting.,47
+Residential,2537,626,Excavation,Occur court always might fight court face last.,3
+Residential,8868,418,Electrical,Include daughter them economy want ball magazine station.,58
+Commercial,4019,497,Finishing,Chance be conference hit clearly site plant avoid own measure power century employee recognize avoid example course air decide act interest.,42
+Infrastructure,9903,399,Excavation,Value kid night someone future onto certain pick spring man.,9
+Commercial,8032,568,Roofing,Then always reflect able place land future couple ago operation should size finish.,41
+Industrial,6809,723,Exterior Cladding,On beautiful measure six career politics bank life now.,49
+Residential,1289,342,Excavation,Quickly mission consumer ready suddenly college situation population follow home step wall.,5
+Residential,8782,284,Roofing,Fly process these model word tell citizen night reduce threat recently impact phone big job forward action east eight.,51
+Infrastructure,5962,532,Plumbing,Follow include shoulder specific manager.,45
+Industrial,7042,551,Exterior Cladding,Choice skin section anyone father Republican chair paper.,52
+Infrastructure,555,428,Plumbing,House ground officer side material everyone treat well artist involve second.,17
+Residential,3594,182,Electrical,Artist song stage try task.,52
+Infrastructure,6532,381,Roofing,Together partner mission network seem north occur everyone remember response adult way around.,59
+Infrastructure,6078,657,Finishing,Court have most anything full movement believe entire.,55
+Infrastructure,4353,248,Excavation,Senior actually decide show account face.,50
+Infrastructure,7123,473,Roofing,Week letter argue measure by.,37
+Commercial,7983,705,Roofing,Member politics cultural north research everything seven poor fly parent.,47
+Infrastructure,928,655,Excavation,Mission figure information beyond change audience entire skin.,4
+Infrastructure,8111,187,Finishing,Treatment force it whom new common can popular star week data.,9
+Industrial,796,259,Structural Framing,Season evening also husband prevent there require marriage training past team economic.,30
+Commercial,4205,382,Plumbing,Hear maybe building.,14
+Industrial,7521,508,Finishing,Knowledge scientist bad attorney price approach second go similar this before race.,47
+Industrial,6692,679,Roofing,Inside reality student mention appear trade already reduce difficult.,10
+Commercial,6653,581,Structural Framing,Purpose dog cup establish rather career girl arrive describe resource central personal.,26
+Infrastructure,8966,374,Roofing,Church boy middle learn physical party buy side town to book perhaps.,25
+Residential,8432,207,Electrical,Again manage large daughter create ok cover life improve deal.,52
+Industrial,4001,560,Roofing,Marriage know them player onto it develop shake dog past speak data common pretty anything body watch participant.,58
+Industrial,4148,205,Plumbing,Exactly answer different compare response hot customer avoid cultural interesting plant brother crime although morning eight.,30
+Industrial,2221,203,Exterior Cladding,Keep hair so indicate cost kind now poor hold writer.,55
+Commercial,6440,228,Finishing,Benefit catch ability challenge year behavior receive rock data.,15
+Residential,3798,180,Foundation,Blood over window traditional their.,17
+Industrial,7941,328,Electrical,Fast pay anyone situation grow someone agreement.,49
+Industrial,7289,421,Plumbing,Left kind born music believe.,10
+Infrastructure,5250,305,Roofing,Dog serious year order heart reason listen culture let eat bit music step.,27
+Industrial,8827,603,Foundation,Environment return avoid scientist carry style candidate federal begin expert upon night morning character thought.,33
+Infrastructure,7670,286,Finishing,Light when whether anyone himself industry without series buy approach recognize total feel picture be professor wall maintain.,56
+Infrastructure,1579,475,Roofing,Seat avoid about these ground debate throw part blood candidate current.,23
+Industrial,5758,722,Structural Framing,Personal year write green.,36
+Infrastructure,8916,598,Roofing,Amount culture person dream sign war future bank available growth wall cold coach.,16
+Commercial,8723,259,Structural Framing,Business authority wonder easy look television magazine energy improve minute.,10
+Infrastructure,8308,541,Foundation,Represent scene style in city because walk loss minute.,40
+Infrastructure,6640,586,Exterior Cladding,Resource food almost another create summer capital politics stay worker again develop.,24
+Commercial,654,637,Electrical,Begin though pay another mother high age same loss.,41
+Residential,4887,256,Plumbing,Reason garden everything travel sport support into industry wonder necessary.,3
+Residential,9828,573,Exterior Cladding,Manager issue purpose keep enjoy available discussion goal can heavy foreign police southern lawyer she indicate page.,34
+Residential,8687,183,Foundation,Serious man mind pull foot.,3
+Infrastructure,3804,474,Roofing,Reach Republican something drive upon floor.,17
+Residential,2563,578,Foundation,Report parent stage network head able area.,5
+Infrastructure,3098,383,Exterior Cladding,Window play get impact because record third would including.,57
+Residential,8291,252,Structural Framing,Various rule table movie.,17
+Commercial,2838,215,Electrical,Machine can no office ability.,14
+Commercial,8824,633,Structural Framing,True see finish station than produce condition carry them involve mention name woman friend wait movie community.,56
+Infrastructure,1932,513,Exterior Cladding,Short beat present site raise we ready.,49
+Commercial,1129,286,Foundation,Most common glass little record.,42
+Infrastructure,9967,501,Exterior Cladding,Husband large worker finally couple seek dinner send stuff defense page a.,19
+Residential,5424,629,Exterior Cladding,Theory suddenly not paper speak game man successful who local.,34
+Residential,4949,202,Structural Framing,Peace development public occur arm some understand where find up environmental account agent more similar here.,24
+Residential,2475,435,Electrical,Possible task suggest chair consumer nice city fall international move significant mission wear business someone difficult energy.,45
+Industrial,9525,709,Plumbing,Him pretty decide nor try suddenly.,15
+Residential,1720,196,Electrical,Crime responsibility growth this just next civil data.,4
+Infrastructure,4084,455,Excavation,Establish surface your support available result safe point in them right admit.,30
+Residential,864,407,Plumbing,Director authority feeling building line try dark itself consider main number seat see.,52
+Commercial,3936,424,Roofing,Option party would run former down relate not weight why natural.,47
+Residential,5798,400,Plumbing,Professional three large open group enter to report form end.,5
+Industrial,3404,401,Finishing,Serve human recent upon old project place itself tend.,21
+Residential,9754,425,Excavation,Stock son century blood professor interesting wear drug.,3
+Infrastructure,4523,250,Foundation,Everyone add lot grow nearly cut seven everyone you rest floor home method when culture like staff care attack.,9
+Industrial,1307,721,Finishing,Where into capital despite set term off process process.,9
+Industrial,6862,529,Roofing,Go campaign often help that subject young someone part traditional middle course ability speech.,10
+Infrastructure,2462,665,Electrical,Woman resource this remember foot subject suggest sometimes very.,1
+Residential,4657,589,Plumbing,Sound deal us easy own.,11
+Residential,8267,595,Excavation,Game month professor sense manager ahead size provide response shake.,20
+Infrastructure,1097,501,Finishing,Time art your true break plan himself east.,51
+Commercial,3319,483,Roofing,Eat until open them start building among.,29
+Commercial,8403,666,Structural Framing,Fire scientist reflect interview owner capital.,13
+Industrial,8464,595,Foundation,Ability last nothing machine loss.,29
+Industrial,9052,684,Electrical,Skill for loss find social pretty trip.,23
+Commercial,879,248,Roofing,Economic oil because view court alone turn may among.,14
+Infrastructure,4933,709,Electrical,Ask identify energy strategy single either.,55
+Industrial,9556,312,Excavation,Same well bad instead commercial view around program no who ball citizen win production data face majority.,7
+Commercial,2203,530,Plumbing,Lot effect young special.,47
+Residential,9867,183,Structural Framing,Yet structure major true relate policy power necessary land ok eight woman continue.,44
+Commercial,5648,206,Plumbing,Life evidence house choice unit culture wall total federal discuss guess full detail fill data.,17
+Industrial,2865,385,Plumbing,This whether every factor race game.,21
+Commercial,2291,229,Foundation,Allow reflect source product face expect heavy nor.,13
+Residential,8608,225,Excavation,Upon sense send interest together industry pressure several worker necessary.,5
+Infrastructure,2526,578,Exterior Cladding,Short I difference attack.,4
+Commercial,7501,406,Structural Framing,General newspaper race thousand thousand wait must morning like article we usually interview may watch ask claim.,24
+Residential,5023,272,Exterior Cladding,Personal feel general push effect factor ground near.,52
+Commercial,8226,336,Excavation,List people firm agent information may.,36
+Infrastructure,5364,543,Foundation,Coach rate election some radio.,52
+Residential,3300,307,Exterior Cladding,Single suddenly quickly after fear before lot understand general quality stage small plan nor trip.,14
+Commercial,9599,381,Plumbing,Into page ready them lay over guy sister card.,55
+Industrial,6414,515,Excavation,Approach happy choose spring project anyone strong level fill former such result begin figure safe on.,35
+Industrial,4233,297,Excavation,Enjoy thing many mind player land eye interesting level a drop.,44
+Industrial,5177,471,Plumbing,Social box director never option name style manage bank become.,15
+Infrastructure,1385,189,Exterior Cladding,Girl institution no need power party.,15
+Commercial,5797,523,Excavation,Role sit natural choice family home point Congress you cultural spring check political though doctor left whose including cover hope.,14
+Residential,8571,360,Structural Framing,Whatever performance leg level character other upon guess drug material simple draw individual environmental why.,20
+Commercial,9934,230,Foundation,Anyone itself interesting fill grow audience memory way leave remember our use.,36
+Commercial,2023,338,Exterior Cladding,Heart party hear full who face bed our article south environmental address way power pattern quickly part.,1
+Commercial,1462,726,Plumbing,Appear hotel exist on type several possible become prevent before research difficult across pattern child line sit.,60
+Residential,9517,259,Exterior Cladding,Executive special exactly course party law down.,22
+Commercial,4593,693,Foundation,Push leave great yet back mission position various.,54
+Industrial,2911,678,Finishing,Note nation response international standard ago push region certainly where blue do huge.,42
+Industrial,9948,652,Excavation,Each return site class truth summer west better recent really child series.,18
+Infrastructure,4683,611,Finishing,Trip why walk nor particular painting worry again.,33
+Industrial,5064,287,Plumbing,Former around maybe city executive.,35
+Infrastructure,4291,388,Roofing,Nearly idea very international hair what several accept.,60
+Commercial,8454,564,Exterior Cladding,Few name director once civil ago above investment.,13
+Industrial,987,409,Exterior Cladding,Before science grow history necessary field interview responsibility should far her.,12
+Infrastructure,6764,623,Excavation,Consider several five east something owner certain piece.,20
+Infrastructure,9065,387,Finishing,Fly hospital scene market second well marriage company rise for by own themselves foreign national character.,26
+Commercial,4381,457,Electrical,Various wait writer next woman.,30
+Infrastructure,7325,287,Electrical,Design cover become customer measure share law response life may however.,30
+Residential,1658,273,Plumbing,Local outside try research believe summer decade wrong.,12
+Infrastructure,9985,694,Foundation,Become every evidence event apply voice spring it imagine key.,4
+Commercial,4982,441,Structural Framing,Happy citizen quite former also player letter agency.,24
+Commercial,9605,426,Electrical,Step end away want plan ten sell news president almost stuff.,59
+Industrial,3480,413,Finishing,Also natural look father through.,57
+Infrastructure,1104,184,Exterior Cladding,Form we bed industry any nor program bar another lawyer quality little.,22
+Industrial,5198,648,Finishing,Difficult hot image new somebody three human too smile course his important seven major.,7
+Residential,9663,516,Plumbing,Quickly despite that provide move energy analysis civil situation relationship safe.,60
