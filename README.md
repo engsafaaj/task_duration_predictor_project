@@ -23,8 +23,7 @@ This project aims to predict the duration of tasks in various types of projects 
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/projectname.git
-cd projectname
+git clone https://github.com/yourusername/](https://github.com/engsafaaj/task_duration_predictor_project.git)
 ```
 
 ### 2. Install Dependencies
